@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there, I'm Ajay! 👋
 
-<!--
-**Ajay9760/Ajay9760** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Recent CSE-DS Graduate**  
+💻 **Turning coffee into code & data insights**
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+- Python | Java | Spring Boot
+- HTML | CSS
+- Machine Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Projects
+- [CalorieFitnessTracker](https://github.com/Ajay9760/CalorieFitnessTracker): Track your fitness goals and calories with ease!
+- [nanoinfluencer-marketplace](https://github.com/Ajay9760/nanoinfluencer-marketplace): Connecting brands with nano influencers in a smart marketplace.
+- [Library-Management-System](https://github.com/Ajay9760/Library-Management-System): Manage your books like a pro 📚
+- [nextjs-ai-chatbot](https://github.com/Ajay9760/nextjs-ai-chatbot): An AI-powered chatbot for Next.js apps.
+- [BookMyShow-](https://github.com/Ajay9760/BookMyShow-): A clone of the popular ticket booking platform.
+
+## ✨ About Me
+- Always learning something new (especially in tech).
+- I don't have hobbies, but I do have a knack for making projects fun!
+- Minimalist by design, maximalist by code.
+
+## 🔗 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ajay9760-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ajay-adire-a03868309/)
+
+---
+
+_Thanks for visiting my profile! Drop a star ⭐ if you find my projects helpful or fun._
