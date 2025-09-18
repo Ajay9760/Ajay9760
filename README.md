@@ -6,13 +6,13 @@
 ## 🛠️ Tech Stack
 - Python | Java | Spring Boot
 - HTML | CSS
+- SQL
 - Machine Learning
 
 ## 🚀 Featured Projects
 - [CalorieFitnessTracker](https://github.com/Ajay9760/CalorieFitnessTracker): Track your fitness goals and calories with ease!
 - [nanoinfluencer-marketplace](https://github.com/Ajay9760/nanoinfluencer-marketplace): Connecting brands with nano influencers in a smart marketplace.
 - [Library-Management-System](https://github.com/Ajay9760/Library-Management-System): Manage your books like a pro 📚
-- [nextjs-ai-chatbot](https://github.com/Ajay9760/nextjs-ai-chatbot): An AI-powered chatbot for Next.js apps.
 - [BookMyShow-](https://github.com/Ajay9760/BookMyShow-): A clone of the popular ticket booking platform.
 
 ## ✨ About Me
