@@ -28,7 +28,7 @@ I'm a Computer Science & Data Science graduate who builds end-to-end application
  `Spring Boot` · `RESTful APIs` · `JWT Auth`
 
 **Databases & Messaging**
-`PostgreSQL` · `Redis` · `RabbitMQ` · `Sequelize ORM` · `Quartz Scheduler`
+`PostgreSQL` · `Redis` · `RabbitMQ` · `Quartz Scheduler`
 
 **DevOps & Tools**
 `Docker` · `Docker Compose` · `GitHub Actions` · ` 
