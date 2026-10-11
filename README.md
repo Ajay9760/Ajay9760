@@ -1,40 +1,40 @@
 # Hi, I'm Ajay Adire 👋
 
 **CSE-DS Graduate** · Full-Stack Developer · Data Science Enthusiast  
-📍 Hyderabad, India · 🔗 [LinkedIn](https://www.linkedin.com/in/ajay-adire-a03868309/)
+📍 Hyderabad, India · 🔗 [LinkedIn](https://www.linkedin.com/in/ajay-adire-a03868309/) · 🐙 [GitHub](https://github.com/Ajay9760)
 
 ---
 
 ## About Me
 
-I'm a Computer Science & Data Science graduate who builds end-to-end applications — from React Native mobile apps to production-ready backend systems with CI/CD pipelines. I enjoy working at the intersection of software engineering and data, turning ideas into functional, well-architected products.
+I'm a Computer Science & Data Science graduate who builds end-to-end applications — from React Native mobile apps to production-ready backend systems with CI/CD pipelines. I enjoy working on projects that combine real business logic, clean architecture, and measurable impact.
 
-- 🏗️ I build full-stack projects with real-world complexity: auth flows, payment systems, database design, and cloud deployment
-- 📊 My CSE-DS background means I think carefully about data modeling, normalization, and how systems scale
-- 🔄 I practice proper software engineering: testing, Docker, CI/CD pipelines, and security scanning
-- 🌱 Currently exploring ML integrations and AI-powered features in web apps
+- 🏗️ I build full-stack systems with real-world complexity: auth flows, payment handling, database design, and cloud deployment
+- 📊 My CSE-DS background helps me think about data modeling, normalization, performance, and scalability
+- 🔄 I follow solid engineering practices: testing, Docker, CI/CD, security scanning, and maintainable architecture
+- 🌱 I’m currently exploring ML integrations and AI-powered features in modern web applications
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages**
+**Languages**  
 `Python` · `Java` · `JavaScript` · `TypeScript` · `SQL`
 
-**Frontend**
+**Frontend**  
 `React` · `React Native` · `Redux Toolkit` · `Tailwind CSS` · `HTML/CSS`
 
-**Backend**
- `Spring Boot` · `RESTful APIs` · `JWT Auth`
+**Backend**  
+`Spring Boot` · `RESTful APIs` · `JWT Authentication` · `Node.js` · `Express`
 
-**Databases & Messaging**
+**Databases & Messaging**  
 `PostgreSQL` · `Redis` · `RabbitMQ` · `Quartz Scheduler`
 
-**DevOps & Tools**
-`Docker` · `Docker Compose` · `GitHub Actions` · ` 
+**Cloud / DevOps**  
+`Docker` · `Docker Compose` · `GitHub Actions` · `Nginx` · `CI/CD`
 
-**Testing**
-`Jest` · `Playwright (E2E)` · `CodeQL` · `Snyk`
+**Testing / Security**  
+`Jest` · `Playwright` · `CodeQL` · `Snyk`
 
 ---
 
@@ -43,7 +43,7 @@ I'm a Computer Science & Data Science graduate who builds end-to-end application
 ### [CalorieFitnessTracker](https://github.com/Ajay9760/CalorieFitnessTracker)
 > A comprehensive fitness and nutrition tracking app — cross-platform (React Native + React web)
 
-Built a full cross-platform app with a React Native mobile client, a React web interface, and a Node.js/Express backend. Features a custom Indian food database with 1,000+ entries (calories, macros, regional cuisine, Hindi names), daily calorie goal tracking, activity logging, and visual progress analytics using Recharts. Uses Redux Toolkit for state management, AsyncStorage for offline persistence, and TypeScript throughout.
+Built a full cross-platform app with a React Native mobile client, a React web interface, and a Node.js/Express backend. It includes a custom Indian food database with 1,000+ entries, calorie tracking, dashboard analytics, and a user-centric fitness workflow.
 
 `React Native` · `React` · `TypeScript` · `Node.js` · `Express` · `Redux Toolkit` · `Recharts`
 
@@ -52,7 +52,7 @@ Built a full cross-platform app with a React Native mobile client, a React web i
 ### [NanoInfluencer Marketplace](https://github.com/Ajay9760/nanoinfluencer-marketplace) · [Live Site](https://ajay9760.github.io/nanoinfluencer-marketplace)
 > A two-sided marketplace connecting brands with nano-influencers (1K–100K followers)
 
-The most architecturally complex project I've built. It features short-lived JWT access tokens (15 min) with HttpOnly refresh token rotation, 2FA with TOTP, role-based access (Brands / Influencers / Admins), and a Stripe escrow payment system. Infrastructure includes Nginx load-balancing across 3 backend instances, Docker Compose for both dev and prod, GitHub Actions CI/CD with CodeQL + Snyk security scanning, and a Prometheus/Grafana monitoring stack. Also integrates Instagram, TikTok, and YouTube APIs for social metrics.
+This is one of my most architecturally complex projects. It includes short-lived JWT access tokens (15 min), HttpOnly refresh token rotation, 2FA with TOTP, role-based access for Brands and Influencers, secure session handling, and cloud-ready deployment patterns.
 
 `React 18` · `TypeScript` · `Node.js` · `PostgreSQL` · `Redis` · `Docker` · `Nginx` · `GitHub Actions`
 
@@ -61,7 +61,7 @@ The most architecturally complex project I've built. It features short-lived JWT
 ### [Chronos — Distributed Job Scheduler](https://github.com/Ajay9760/Job-Scheduler)
 > An enterprise-grade distributed job scheduling system built on a three-service microservices architecture
 
-My most technically sophisticated backend project. Chronos is split into three independently deployable services: an **API Service** (Spring Boot REST + JWT auth), a **Scheduler Service** (Quartz engine that parses cron expressions and triggers jobs), and a **Worker Service** (RabbitMQ consumer that executes webhooks with configurable retry + exponential backoff). Services communicate asynchronously via RabbitMQ with dead-letter queues for fault tolerance. Features role-based access control, Flyway database migrations, Spring Actuator health probes (Kubernetes-ready), Micrometer metrics, and full Docker Compose orchestration with proper service startup ordering.
+My most technically sophisticated backend project. Chronos is split into three independently deployable services: an API Service (Spring Boot REST + JWT auth), a Scheduler Service (Quartz jobs), and a Worker/Processing layer communicating through RabbitMQ. It demonstrates distributed design, async coordination, and strong backend engineering.
 
 `Java 21` · `Spring Boot 3.2` · `PostgreSQL` · `RabbitMQ` · `Quartz Scheduler` · `Docker` · `Flyway` · `Maven`
 
@@ -77,7 +77,7 @@ My most technically sophisticated backend project. Chronos is split into three i
 ### [BookMyShow DB Design](https://github.com/Ajay9760/BookMyShow-)
 > A fully normalized SQL database schema for a ticket booking platform
 
-Modeled the BookMyShow ticketing domain in SQL — theatres, screens, movies, formats, and shows — with full normalization through BCNF. Demonstrates solid understanding of relational design principles: primary/foreign keys, entity relationships, constraint enforcement, and multi-table joins.
+Modeled the BookMyShow ticketing domain in SQL — theatres, screens, movies, formats, and shows — with full normalization through BCNF. It demonstrates a strong understanding of relational design and real-world data modeling tradeoffs.
 
 `SQL` · `Database Design` · `Normalization (1NF → BCNF)`
 
